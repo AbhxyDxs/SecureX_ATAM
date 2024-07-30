@@ -47,8 +47,8 @@ export const Navbar = () => {
       <NavbarContent className="sm:flex basis-1/5 sm:basis-full" justify="end">
         <NavbarItem className="md:flex">
           <ConnectButton />
-          {/* <Link
-            href="https://github.com/hashirpm/secureX"
+          <Link
+            href="https://github.com/aysha-thasneem-am/SecureX_Fix"
             target="_blank"
             className="hidden sm:inline-block"
           >
@@ -59,7 +59,7 @@ export const Navbar = () => {
             >
               Contribute
             </Button>
-          </Link> */}
+          </Link>
         </NavbarItem>
       </NavbarContent>
     </NextUINavbar>
