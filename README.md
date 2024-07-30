@@ -1,4 +1,4 @@
-# SecureX - Blockchain-Based Evidence Management System
+# SecureX
 
 A blockchain-based evidence management system designed to prevent manipulation in courts. It allows users to register contracts, submit evidence, and retrieve evidence using blockchain technology.
 
@@ -50,6 +50,7 @@ A blockchain-based evidence management system designed to prevent manipulation i
    ```bash
    yarn dev
    ```
-4. **Open the application in your browser**:
-    Navigate to http://localhost:3000 to see the application in action.
-    
+
+
+Navigate to http://localhost:3000 to see the application in action.
+
